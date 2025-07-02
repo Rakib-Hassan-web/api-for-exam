@@ -15,3 +15,11 @@ body{
     margin-top: 50px;
     margin-bottom: 80px;
 }
+.main_id{
+    text-align: center;
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+}
