@@ -1,0 +1,17 @@
+.main{
+    
+    width: 340px;
+    padding: 20px 30px;
+    border-radius: 20px;
+    border:  2px solid yellow;
+}
+
+body{
+    background-color: gray;
+}
+.src{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
