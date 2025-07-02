@@ -42,7 +42,14 @@ main.appendChild(city)
 
 // ------------- class list added-----------
 
-
+main.classList.add('main')
+main_id.classList.add('main_id')
+idname.classList.add('idname')
+name.classList.add('name')
+username.classList.add('username')
+email.classList.add('email')
+contact.classList.add('contact')
+city.classList.add('city')
 
 
 
