@@ -59,8 +59,8 @@ idname.innerHTML+=`USER ID : ${user.id}`
 name.innerHTML +=`NAME : ${user.name}`
 username.innerHTML +=`Username : ${user.username}`
 email.innerHTML +=`Email : ${user.email}`
-// name.innerHTML +=`NAME : ${user.name}`
-// name.innerHTML +=`NAME : ${user.name}`
+contact.innerHTML +=`Contact : ${user.phone}`
+city.innerHTML +=`City Name : ${user.address.city}`
 
 
 
