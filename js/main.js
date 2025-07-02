@@ -55,6 +55,8 @@ city.classList.add('city')
 
 // --------------add element-----
 
+name.innerHTML +=`NAME : ${user.name}`
+
 
 
 
